@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-structs1
+derive2
 
 intro1
 intro2
